@@ -9,5 +9,5 @@ entries:
     name: homeassistant
     urls:
     - https://escomputers.github.io/helm/homeassistant.tgz
-    version: 1.0
+    version: "1.0"
 generated: "2023-09-28T16:38:55.560922+02:00"
